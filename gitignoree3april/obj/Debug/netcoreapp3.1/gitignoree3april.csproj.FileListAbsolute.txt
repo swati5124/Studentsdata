@@ -106,3 +106,4 @@ C:\Users\Mannu\source\repos\gitignoree3april\gitignoree3april\obj\Debug\netcorea
 C:\Users\Mannu\source\repos\gitignoree3april\gitignoree3april\obj\Debug\netcoreapp3.1\gitignoree3april.csproj.CopyComplete
 C:\Users\Mannu\source\repos\gitignoree3april\gitignoree3april\obj\Debug\netcoreapp3.1\gitignoree3april.dll
 C:\Users\Mannu\source\repos\gitignoree3april\gitignoree3april\obj\Debug\netcoreapp3.1\gitignoree3april.pdb
+C:\Users\Mannu\source\repos\gitignoree3april\gitignoree3april\obj\Debug\netcoreapp3.1\Razor\Views\Student\Index.cshtml.g.cs
